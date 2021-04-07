@@ -6,7 +6,7 @@
 [![Licença](https://img.shields.io/badge/license-MIT-brightgreen?)](https://github.com/Gui25Reis/DIferenca-de-datas-em-dias/blob/master/LICENSE)
 
 
-![Imagem]()
+![Imagem](https://github.com/Gui25Reis/Chat-Gados/blob/main/Arquivos/Images/Logo/Logo.png)
 
 Esse programa se trata de uma conversa online, podendo mandar mensagens de texto ou arquivos. Seu funcionamento se dá com um servidor, que vai receber todas as informações e enviar para todos os clientes conectados. E também os clientes, que vão enviar as mensagens.
 
@@ -20,7 +20,7 @@ Esse programa se trata de uma conversa online, podendo mandar mensagens de texto
 
 ## Instalação
 
-Existe um executável pronto que pode ser usado para o [cliente](https://github.com/Gui25Reis/Chat-Gados/blob/main/_Cliente/Chat%20Gados.exe) e o [servidor](https://github.com/Gui25Reis/Chat-Gados/blob/main/_Cliente/Server%20Gados.exe). Nesse [vídeo](https://github.com/Gui25Reis/DIferenca-de-datas-em-dias/wiki/Demonstração) mostra um exemplo da execução e do uso.
+Existe um executável pronto que pode ser usado para o [cliente](https://github.com/Gui25Reis/Chat-Gados/raw/main/_Cliente/Chat%20Gados.exe) e o [servidor](https://github.com/Gui25Reis/Chat-Gados/raw/main/_Server/Server%20Gados.exe).
 
 ## Código
 
