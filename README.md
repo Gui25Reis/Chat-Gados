@@ -1,4 +1,4 @@
-# Diferença em Dias
+# Chat Online
 [![Versão](https://img.shields.io/badge/version-v1.0.0-orange)](https://github.com/Gui25Reis/Chat-Gados/releases/tag/1.0.0)
 ![Tamanho](https://img.shields.io/badge/size-71%20MB-blue)
 ![Plataformas](https://img.shields.io/badge/plataforma-Windows-lightgrey?logo=windows)
